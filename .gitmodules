@@ -2,6 +2,6 @@
 	path = public
 	url = git@github.com:glw907/glw907.github.io.git
 	branch = master
-[submodule "themes/blackburn"]
-	path = themes/blackburn
-	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "themes/blackburn-hugo"]
+	path = themes/blackburn-hugo
+	url = https://github.com/glw907/blackburn-hugo
